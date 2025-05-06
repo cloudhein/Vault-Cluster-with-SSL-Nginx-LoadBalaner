@@ -1,0 +1,4 @@
+run-book.md
+nginx-certs/vault-lb.crt
+nginx-certs/vault-lb.key
+unseal-script/unseal-output.txt
